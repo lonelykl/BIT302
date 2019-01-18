@@ -1,0 +1,10 @@
+UML 		- star uml
+Project Management	- gantt project
+Design		- Wireframe
+Collarboration 	- github, google doc
+Coding		- 
+Database		- phpMyAdmin
+Atom
+
+testing
+-Selenium
